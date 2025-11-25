@@ -21,6 +21,7 @@ Nesta etapa inicial, atuei como Analista de BI responsável pelo levantamento de
 | [Stakeholder Requirements](docs/Stakeholder_Requirements.pdf) | Mapeamento das necessidades de Alice Shi e Matías Sosa, incluindo KPIs principais. |
 | [Project Requirements](docs/Project_Requirements.pdf) | Definição de critérios de sucesso (SMART), restrições técnicas e cronograma. |
 | [Strategy Document](docs/Strategy_Document.pdf) | Planejamento dos dashboards, definição de métricas e escolha visual dos gráficos. |
+| [Gap Analysis & Q&A](docs/Project_Gap_Analysis.pdf) | Levantamento de perguntas críticas para cobrir lacunas de informação (ex: LGPD e Jornada do Usuário). |
 
 ### 🧠 Destaques da Análise
 Durante o planejamento, identifiquei lacunas críticas nas informações fornecidas e estabeleci planos de ação proativos:
