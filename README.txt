@@ -1,6 +1,6 @@
 # 📊 Marklt BI - Análise de Comportamento de Vendas
 
-![Capa do Projeto](dashboard/Capa%20FIGMA.jpg)
+![Capa do Projeto](dashboard/Capa%20FIGMA.png)
 
 > **Status:** Concluído ✅  
 > **Ferramentas:** Python (Pandas/Faker), SQL (BigQuery), Power BI, Figma.
@@ -28,7 +28,7 @@ Carreguei os dados no Data Warehouse e criei **Views SQL** estratégicas para li
 O dashboard foi desenhado com foco na experiência do usuário (UX), utilizando o **Figma** para prototipar o layout e garantir consistência visual.
 
 **Resultado Final:**
-![Dashboard Layout](dashboard/Dashboard%20FIGMA.png)
+![Dashboard Layout](dashboard/Dashboard_Final.png)
 
 ## 🔎 Principais Insights
 Com base na análise dos dados, identificamos:
