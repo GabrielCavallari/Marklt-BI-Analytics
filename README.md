@@ -45,4 +45,4 @@ Com base na análise dos dados, identificamos:
     * 🖼️ Assets de design (Fundo e Capa do Figma).
 
 ---
-*Desenvolvido por [Gabriel Lopes Cavallari](https://www.linkedin.com/in/seu-linkedin-aqui)*
+*Desenvolvido por [Gabriel Lopes Cavallari](https://www.linkedin.com/in/gabriel-lopes-cavallari-18106020a/)*
